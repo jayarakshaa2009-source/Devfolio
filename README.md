@@ -31,3 +31,7 @@ _Replace the placeholder above with your actual GitHub Pages link after deployme
 2. Go to the repository's **Settings → Pages**.
 3. Under "Source", select the `main` branch and the `/ (root)` folder, then save.
 4. Wait a minute for GitHub to build the site, then visit the URL shown on that page.
+
+## Portfolio Status
+
+Responsive portfolio deployed using GitHub Pages.
